@@ -13,5 +13,7 @@ int main(int argc, char const *argv[])
 
     area = 0.5 * base * height;
 
+    std::cout << "Area of triangle for given base and height is\n: " << area << " units\n";
+
     return 0;
 }
