@@ -1,0 +1,1 @@
+Print given string input by the user on the screen.
