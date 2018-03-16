@@ -30,6 +30,12 @@ int main(int argc, char const *argv[])
 //   return std::rand() % (max + 1 - min) + min;
 // }
 
+// int rand(int min, int max)
+// {
+//     std::srand(std::time(0));
+//     return std::rand() % (max + 1 - min) + min;
+// }
+
 
     return 0;
 }
